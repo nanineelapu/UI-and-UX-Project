@@ -5,14 +5,19 @@
 Created Appilication Interface for a Music App (System Figma Project)
 
 **Designs and Prototype Samples were in Below.**
+                                                
 
-![image](https://github.com/user-attachments/assets/41574408-767e-463c-8a55-7a2535c4bbb0)      ![image](https://github.com/user-attachments/assets/45f2a6d9-32d1-4f6d-94f0-cab63a3b05f0)
+![image](https://github.com/user-attachments/assets/41574408-767e-463c-8a55-7a2535c4bbb0)      ![image](https://github.com/user-attachments/assets/b7255ca6-e3a1-41b7-ae65-e500fbafa1c7)
 
 
 ![image](https://github.com/user-attachments/assets/e0d425ed-e5ba-447d-87d7-20ea2265e8d0)       ![image](https://github.com/user-attachments/assets/d2fd46e5-091b-4c88-82c5-9794910fc3da)
+    
+
+https://github.com/user-attachments/assets/98266dfe-3ed3-4a18-b51e-e585a9f2bc7d
 
 
- ![image](https://github.com/user-attachments/assets/b7255ca6-e3a1-41b7-ae65-e500fbafa1c7)
+
+        
 
 
 **My WorkSpace - Access and View Link :** 
